@@ -1,0 +1,28 @@
+{
+  "name": "evalint-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express-jwt": "^5.3.1",
+    "express-sessions": "^1.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.7.0",
+    "koa-body-parser": "^1.1.2",
+    "koa-joi-router": "^6.0.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.7",
+    "node-fetch": "^2.5.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "yargs": "^13.2.2"
+  }
+}
