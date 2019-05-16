@@ -1,4 +1,5 @@
-const groupSchema = require('./schemas');
+const {groupSchema } = require('./schema');
 
-module.exports  = groupSchema;
-
+module.exports = {
+    groupSchema,
+};

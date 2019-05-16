@@ -1,15 +1,22 @@
 const mongoose = require('mongoose');
 
 const studentSchema = mongoose.Schema({
-    year:{type:String},
-    user:{
-        id:String,
-        name:String,
+    userName: {
+        type: String,
+
     },
-    group:{
-        id:String,
-        name:String,
-    }
+    year: {
+        type: String,
+    },
+    evaluation: {
+        type: String,
+    },
+    groupId: {
+        type: String,
+    },
+
 });
 
-module.exports = studentSchema;
+module.exports = {
+    studentSchema,
+};

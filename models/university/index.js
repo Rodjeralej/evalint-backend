@@ -1,4 +1,6 @@
-const uniSchema = require('./schemas');
+const { uniSchema } = require('./schema');
 
-module.exports  = uniSchema;
+module.exports = {
+    uniSchema,
 
+};

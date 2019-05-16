@@ -1,4 +1,5 @@
-const majorSchema = require('./schemas');
+const {majorSchema } = require('./schema');
 
-module.exports  = majorSchema;
-
+module.exports = {
+    majorSchema,
+};

@@ -1,11 +1,14 @@
 const mongoose = require('mongoose');
 
 const majorSchema = mongoose.Schema({
-    name:{type:String},
-    faculty:{
-        id:String,
-        name:String,
+    name: {
+        type: String,
+    },
+    facultyId:{
+        type: String,
     }
 });
 
-module.exports = majorSchema;
+module.exports = {
+    majorSchema,
+};

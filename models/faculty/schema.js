@@ -1,11 +1,16 @@
 const mongoose = require('mongoose');
 
 const facultySchema = mongoose.Schema({
-    name:{type:String},
-    university:{
-        id:String,
-        name:String,
+
+    name: {
+        type: String,
+    },
+
+    uniId:{
+        type: String,
     }
 });
 
-module.exports = facultySchema;
+module.exports = {
+    facultySchema,
+};

@@ -1,11 +1,14 @@
 const mongoose = require('mongoose');
 
 const groupSchema = mongoose.Schema({
-    name:{type:String},
-    major:{
-        id:String,
-        name:String,
+    name: {
+        type: String,
+    },
+    majorId:{
+        type: String,
     }
 });
 
-module.exports = groupSchema;
+module.exports = {
+    groupSchema,
+};

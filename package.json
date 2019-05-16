@@ -4,25 +4,39 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": ". sh local-scripts/development-local.sh && node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.1.0",
     "crypto": "^1.0.1",
     "express-jwt": "^5.3.1",
     "express-sessions": "^1.0.6",
+    "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.7.0",
     "koa-body-parser": "^1.1.2",
     "koa-joi-router": "^6.0.0",
+    "koa-jwt": "^3.5.1",
     "koa-router": "^7.4.0",
     "lodash": "^4.17.11",
+    "map-obj": "^3.1.0",
+    "moment": "^2.24.0",
     "mongoose": "^5.5.7",
     "node-fetch": "^2.5.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "yargs": "^13.2.2"
+    "require-directory": "^2.1.1",
+    "uuid": "^3.3.2",
+    "yargs": "^13.2.2",
+    "dotenv": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }

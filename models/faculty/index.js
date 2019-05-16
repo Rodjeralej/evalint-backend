@@ -1,4 +1,5 @@
-const facultySchema = require('./schemas');
+const {facultySchema } = require('./schema');
 
-module.exports  = facultySchema;
-
+module.exports = {
+    facultySchema,
+};

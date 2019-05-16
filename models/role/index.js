@@ -1,4 +1,5 @@
-const roleSchema = require('./schemas');
+const {roleSchema} = require('./schema');
 
-module.exports  = roleSchema;
-
+module.exports = {
+    roleSchema,
+};
