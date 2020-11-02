@@ -3,7 +3,7 @@ const { checkIfUserExists } = require("../../service/ldap-auth");
 
 module.exports = {
   method: "get",
-  path: "/:field",
+  path: "/fieldsCount/:field",
   handler: async (ctx) => {
     const { field } = ctx.request.params;
     const { data } = await axios.get(
