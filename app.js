@@ -29,7 +29,7 @@ app.use(
 
 app.use(routes.umUser.middleware());
 
-setTimeout(getMatchWithAD, 3600000);
+//setTimeout(getMatchWithAD, 3600000);
 
 app.listen(3300, () => {
   console.log("Server started successfully at port 3300");
