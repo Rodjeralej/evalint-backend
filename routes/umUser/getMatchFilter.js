@@ -1,16 +1,25 @@
 const axios = require("axios");
+const LocalStorage = require("node-localstorage").LocalStorage,
+  localStorage = new LocalStorage("./scratch");
 
 module.exports = {
   method: "get",
   path: "/active-directory-match/:faculty/:courseType/:major/:year",
   handler: async (ctx) => {
     const { faculty, courseType, major, year } = ctx.request.params;
-    const { data } = await axios.get(
+    /* const { data } = await axios.get(
       "http://directoriounico.umcc.cu/api/getData.php?f=json&t=SIGENU"
     );
     const usersAD = await axios.get(
       "http://directoriounico.umcc.cu/api/getData.php?f=json&t=AD"
     );
+    */
+
+    const data = JSON.parse(localStorage.getItem("SIGENU.json"));
+    const usersAD = {
+      data: JSON.parse(localStorage.getItem("AD.json")),
+    };
+
     let filteredUsers = data.filter((user) => user.facultad_filial === faculty);
     filteredUsers = filteredUsers.filter(
       (user) => user.tipo_de_curso === courseType

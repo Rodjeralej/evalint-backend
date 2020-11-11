@@ -8,6 +8,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 //const errorHandler = require('errorhandler');
 const getMatchWithAD = require("./lib/getMatchWithAd");
+const buildTreeView = require("./lib/createTreeViewInformation");
 
 const { JWT_KEY } = process.env;
 
@@ -29,7 +30,8 @@ app.use(
 
 app.use(routes.umUser.middleware());
 
-//setTimeout(getMatchWithAD, 3600000);
+//getMatchWithAD();
+buildTreeView();
 
 app.listen(3300, () => {
   console.log("Server started successfully at port 3300");

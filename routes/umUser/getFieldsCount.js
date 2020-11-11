@@ -1,14 +1,16 @@
 const axios = require("axios").default;
-const { checkIfUserExists } = require("../../service/ldap-auth");
+const LocalStorage = require("node-localstorage").LocalStorage,
+  localStorage = new LocalStorage("./scratch");
 
 module.exports = {
   method: "get",
   path: "/fieldsCount/:field",
   handler: async (ctx) => {
     const { field } = ctx.request.params;
-    const { data } = await axios.get(
+    /*const { data } = await axios.get(
       "http://directoriounico.umcc.cu/api/getData.php?f=json&t=SIGENU"
-    );
+    );*/
+    const data = JSON.parse(localStorage.getItem("SIGENU.json"));
     ctx.assert(data, 404, "User information can not be fetched");
     const counter = {};
     data.map((user) => {

@@ -1,0 +1,3645 @@
+{
+    "id": "root",
+    "name": "UM",
+    "matchInformation": {
+        "registeredId": 772,
+        "total": 2691
+    },
+    "children": [
+        {
+            "id": "faculty0",
+            "name": "CUM de Colón",
+            "children": [
+                {
+                    "id": "course-type0",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major0",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year0",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year9",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year120",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year367",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major2",
+                            "name": "Ingeniería en Procesos Agroindustriales",
+                            "children": [
+                                {
+                                    "id": "year2",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year37",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year179",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year803",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major3",
+                            "name": "Educación Especial",
+                            "children": [
+                                {
+                                    "id": "year3",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year173",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year177",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major7",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year7",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year29",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year52",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year374",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major30",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year30",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year77",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year574",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major38",
+                            "name": "Educación Lengua Extranjera",
+                            "children": [
+                                {
+                                    "id": "year38",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major59",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year59",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year407",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year411",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year597",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1137",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major68",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year68",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year152",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year185",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year205",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major155",
+                            "name": "Educación Artística",
+                            "children": [
+                                {
+                                    "id": "year155",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major162",
+                            "name": "Educación Marximo Leninismo e Historia",
+                            "children": [
+                                {
+                                    "id": "year162",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year369",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major730",
+                            "name": "Educación Instructor de Arte",
+                            "children": [
+                                {
+                                    "id": "year730",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year866",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type141",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major141",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year141",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1501",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major196",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year196",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year217",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major221",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year221",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year336",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty1",
+            "name": "CUM de Jagüey Grande",
+            "children": [
+                {
+                    "id": "course-type1",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major1",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year1",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year167",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year628",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year818",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year2262",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major13",
+                            "name": "Turismo",
+                            "children": [
+                                {
+                                    "id": "year13",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major32",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year32",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year360",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year821",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year969",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1011",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major76",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year76",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year482",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major197",
+                            "name": "Estudios Socioculturales",
+                            "children": [
+                                {
+                                    "id": "year197",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type15",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major15",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year15",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year84",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year151",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year256",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major18",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year18",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year21",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year42",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year115",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major26",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year26",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year46",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year66",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year255",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major258",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year258",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year419",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year433",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year524",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty5",
+            "name": "SUM de Los Arabos",
+            "children": [
+                {
+                    "id": "course-type5",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major5",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year5",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year126",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year293",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major88",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year88",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year121",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year171",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year473",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major90",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year90",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year123",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year373",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty6",
+            "name": "SUM de Perico",
+            "children": [
+                {
+                    "id": "course-type6",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major6",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year6",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year39",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year57",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year87",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major11",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year11",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year34",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major17",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year17",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year63",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year683",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty8",
+            "name": "SUM de Unión de Reyes",
+            "children": [
+                {
+                    "id": "course-type8",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major8",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year8",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year303",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year603",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1911",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major117",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year117",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year573",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type74",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major74",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year74",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year89",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year626",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1427",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty16",
+            "name": "SUM de Cárdenas",
+            "children": [
+                {
+                    "id": "course-type16",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major16",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year16",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year82",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year200",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year329",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year694",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major25",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year25",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year50",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year230",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year296",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year443",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year747",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major98",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year98",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year147",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major190",
+                            "name": "Turismo",
+                            "children": [
+                                {
+                                    "id": "year190",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major223",
+                            "name": "Estudios Socioculturales",
+                            "children": [
+                                {
+                                    "id": "year223",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year565",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1654",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type20",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major20",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year20",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year110",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year240",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year522",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major44",
+                            "name": "Ingeniería Industrial",
+                            "children": [
+                                {
+                                    "id": "year44",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year91",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year145",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year170",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major45",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year45",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year248",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year358",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year523",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major95",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year95",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major381",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year381",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty22",
+            "name": "SUM de Limonar",
+            "children": [
+                {
+                    "id": "course-type22",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major22",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year22",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year28",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type27",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major27",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year27",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year639",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major65",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year65",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year226",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major252",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year252",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year849",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty23",
+            "name": "SUM de Calimete",
+            "children": [
+                {
+                    "id": "course-type23",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major23",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year23",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year79",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major212",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year212",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year282",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year442",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1313",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major214",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year214",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year249",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type43",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major43",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year43",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year560",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty31",
+            "name": "CUM de Jovellanos",
+            "children": [
+                {
+                    "id": "course-type31",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major31",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year31",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year80",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year85",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year201",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major81",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year81",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major99",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year99",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year168",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type33",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major33",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year33",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year235",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year295",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year422",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major228",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year228",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year382",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1266",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major1917",
+                            "name": "Estudios Socioculturales",
+                            "children": [
+                                {
+                                    "id": "year1917",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty35",
+            "name": "SUM de Pedro Betancourt",
+            "children": [
+                {
+                    "id": "course-type35",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major35",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year35",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year106",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year140",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year813",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major47",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year47",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year60",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year174",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year731",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major269",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year269",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year817",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year874",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1018",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty41",
+            "name": "SUM de Martí",
+            "children": [
+                {
+                    "id": "course-type41",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major41",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year41",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year477",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major72",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year72",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major149",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year149",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year441",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty654",
+            "name": "SUM de la Ciénaga",
+            "children": [
+                {
+                    "id": "course-type654",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major654",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year654",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year2430",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major711",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year711",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year1061",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": "0"
+        },
+        {
+            "id": "faculty1077",
+            "name": "Facultad de Ciencias de la Cultura Física",
+            "children": [
+                {
+                    "id": "course-type1077",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major1077",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year1077",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 39
+                                },
+                                {
+                                    "id": "year1883",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 4
+                                },
+                                {
+                                    "id": "year2718",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year2725",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year2735",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 3
+                                }
+                            ],
+                            "matchInformation": 47
+                        }
+                    ],
+                    "matchInformation": 47
+                },
+                {
+                    "id": "course-type2719",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major2719",
+                            "name": "Cultura Física",
+                            "children": [
+                                {
+                                    "id": "year2719",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 18
+                                },
+                                {
+                                    "id": "year2720",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 8
+                                },
+                                {
+                                    "id": "year2738",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 25
+                                },
+                                {
+                                    "id": "year2749",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year2825",
+                                    "name": "-----",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 51
+                        }
+                    ],
+                    "matchInformation": 51
+                }
+            ],
+            "matchInformation": 98
+        },
+        {
+            "id": "faculty2286",
+            "name": "Facultad de Idiomas",
+            "children": [
+                {
+                    "id": "course-type2286",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major2286",
+                            "name": "Educación Español-Literatura",
+                            "children": [
+                                {
+                                    "id": "year2286",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5000",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5003",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5009",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                }
+                            ],
+                            "matchInformation": 5
+                        },
+                        {
+                            "id": "major5002",
+                            "name": "Educación Lengua Extranjera",
+                            "children": [
+                                {
+                                    "id": "year5002",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year5006",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5019",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5038",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 7
+                                }
+                            ],
+                            "matchInformation": 10
+                        }
+                    ],
+                    "matchInformation": 15
+                },
+                {
+                    "id": "course-type5004",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major5004",
+                            "name": "Lengua Inglesa (con segunda Lengua Extranjera)",
+                            "children": [
+                                {
+                                    "id": "year5004",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 9
+                                },
+                                {
+                                    "id": "year5007",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 13
+                                },
+                                {
+                                    "id": "year5025",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year5042",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 17
+                                },
+                                {
+                                    "id": "year5044",
+                                    "name": "Preparatoria",
+                                    "children": [],
+                                    "matchInformation": 10
+                                },
+                                {
+                                    "id": "year5050",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 9
+                                }
+                            ],
+                            "matchInformation": 61
+                        },
+                        {
+                            "id": "major5010",
+                            "name": "Educación Lengua Extranjera",
+                            "children": [
+                                {
+                                    "id": "year5010",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5014",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5022",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 6
+                                },
+                                {
+                                    "id": "year5029",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 18
+                                },
+                                {
+                                    "id": "year5037",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 25
+                        },
+                        {
+                            "id": "major5016",
+                            "name": "Educación Español-Literatura",
+                            "children": [
+                                {
+                                    "id": "year5016",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5070",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year5094",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 3
+                        }
+                    ],
+                    "matchInformation": 89
+                }
+            ],
+            "matchInformation": 104
+        },
+        {
+            "id": "faculty3156",
+            "name": "Facultad de Ciencias Técnicas",
+            "children": [
+                {
+                    "id": "course-type3156",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major3156",
+                            "name": "Ingeniería Mecánica",
+                            "children": [
+                                {
+                                    "id": "year3156",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year3157",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 7
+                                },
+                                {
+                                    "id": "year3160",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 36
+                                },
+                                {
+                                    "id": "year3165",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 47
+                        },
+                        {
+                            "id": "major3159",
+                            "name": "Ingeniería Química",
+                            "children": [
+                                {
+                                    "id": "year3159",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 18
+                                },
+                                {
+                                    "id": "year3171",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year3184",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year3207",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 24
+                        },
+                        {
+                            "id": "major3162",
+                            "name": "Ingeniería Informática",
+                            "children": [
+                                {
+                                    "id": "year3162",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 22
+                                },
+                                {
+                                    "id": "year3169",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year3181",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year3186",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                }
+                            ],
+                            "matchInformation": 30
+                        },
+                        {
+                            "id": "major3163",
+                            "name": "Ingeniería Civil",
+                            "children": [
+                                {
+                                    "id": "year3163",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year3179",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year3192",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 21
+                                },
+                                {
+                                    "id": "year3205",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 26
+                        },
+                        {
+                            "id": "major4000",
+                            "name": "Educación Eléctrica",
+                            "children": [
+                                {
+                                    "id": "year4000",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": 127
+                },
+                {
+                    "id": "course-type3158",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major3158",
+                            "name": "Ingeniería Civil",
+                            "children": [
+                                {
+                                    "id": "year3158",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3187",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3231",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year3312",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3359",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major3172",
+                            "name": "Ingeniería Informática",
+                            "children": [
+                                {
+                                    "id": "year3172",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 5
+                                },
+                                {
+                                    "id": "year3204",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year3225",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3260",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3350",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 8
+                        },
+                        {
+                            "id": "major3174",
+                            "name": "Ingeniería Mecánica",
+                            "children": [
+                                {
+                                    "id": "year3174",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3210",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3237",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3247",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year3254",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3385",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major3180",
+                            "name": "Ingeniería Química",
+                            "children": [
+                                {
+                                    "id": "year3180",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3217",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year3323",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3347",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3360",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 2
+                        },
+                        {
+                            "id": "major3190",
+                            "name": "Educación Informática",
+                            "children": [
+                                {
+                                    "id": "year3190",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3238",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year3604",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year3613",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        }
+                    ],
+                    "matchInformation": 13
+                }
+            ],
+            "matchInformation": 140
+        },
+        {
+            "id": "faculty4108",
+            "name": "Facultad de Ciencias Sociales y Humanidades",
+            "children": [
+                {
+                    "id": "course-type4108",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major4108",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year4108",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4142",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4145",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4190",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4211",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major4115",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year4115",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4179",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major4122",
+                            "name": "Estudios Socioculturales",
+                            "children": [
+                                {
+                                    "id": "year4122",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4163",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                },
+                {
+                    "id": "course-type4109",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major4109",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year4109",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 10
+                                },
+                                {
+                                    "id": "year4110",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 18
+                                },
+                                {
+                                    "id": "year4147",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 5
+                                },
+                                {
+                                    "id": "year4185",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 21
+                                }
+                            ],
+                            "matchInformation": 54
+                        },
+                        {
+                            "id": "major4111",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year4111",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 4
+                                },
+                                {
+                                    "id": "year4113",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4129",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 12
+                                },
+                                {
+                                    "id": "year4178",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 17
+                        },
+                        {
+                            "id": "major4117",
+                            "name": "Periodismo",
+                            "children": [
+                                {
+                                    "id": "year4117",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4120",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4137",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 11
+                                },
+                                {
+                                    "id": "year4161",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 11
+                        }
+                    ],
+                    "matchInformation": 82
+                },
+                {
+                    "id": "course-type4112",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major4112",
+                            "name": "Derecho",
+                            "children": [
+                                {
+                                    "id": "year4112",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year4116",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4130",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4134",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4158",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major4119",
+                            "name": "Gestión Sociocultural para el desarrollo",
+                            "children": [
+                                {
+                                    "id": "year4119",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year4123",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4150",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 5
+                                }
+                            ],
+                            "matchInformation": 7
+                        },
+                        {
+                            "id": "major4128",
+                            "name": "Educación Marximo Leninismo e Historia",
+                            "children": [
+                                {
+                                    "id": "year4128",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4162",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4197",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 3
+                                }
+                            ],
+                            "matchInformation": 3
+                        },
+                        {
+                            "id": "major4136",
+                            "name": "Estudios Socioculturales",
+                            "children": [
+                                {
+                                    "id": "year4136",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major4141",
+                            "name": "Comunicación Social",
+                            "children": [
+                                {
+                                    "id": "year4141",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year4144",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4164",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4201",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year4694",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 2
+                        }
+                    ],
+                    "matchInformation": 13
+                }
+            ],
+            "matchInformation": 95
+        },
+        {
+            "id": "faculty4747",
+            "name": "Facultad de Ciencias Agropecuarias",
+            "children": [
+                {
+                    "id": "course-type4747",
+                    "name": "Curso Diurno",
+                    "children": [
+                        {
+                            "id": "major4747",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year4747",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year4748",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4753",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 44
+                                },
+                                {
+                                    "id": "year4778",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 5
+                                }
+                            ],
+                            "matchInformation": 50
+                        }
+                    ],
+                    "matchInformation": 50
+                },
+                {
+                    "id": "course-type4749",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major4749",
+                            "name": "Agronomía",
+                            "children": [
+                                {
+                                    "id": "year4749",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year4751",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 9
+                                },
+                                {
+                                    "id": "year4755",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4804",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 12
+                        },
+                        {
+                            "id": "major4757",
+                            "name": "Educación Agropecuaria",
+                            "children": [
+                                {
+                                    "id": "year4757",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year4774",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": 12
+                }
+            ],
+            "matchInformation": 62
+        },
+        {
+            "id": "faculty5501",
+            "name": "Facultad de Ciencias Empresariales",
+            "children": [
+                {
+                    "id": "course-type5501",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major5501",
+                            "name": "Ingeniería Industrial",
+                            "children": [
+                                {
+                                    "id": "year5501",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 37
+                                },
+                                {
+                                    "id": "year5502",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 10
+                                },
+                                {
+                                    "id": "year5511",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year5515",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 40
+                                }
+                            ],
+                            "matchInformation": 90
+                        },
+                        {
+                            "id": "major5503",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year5503",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5514",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 20
+                                },
+                                {
+                                    "id": "year5524",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 31
+                                },
+                                {
+                                    "id": "year5527",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 4
+                                }
+                            ],
+                            "matchInformation": 55
+                        },
+                        {
+                            "id": "major5509",
+                            "name": "Economía",
+                            "children": [
+                                {
+                                    "id": "year5509",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year5528",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year5543",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 25
+                                },
+                                {
+                                    "id": "year5599",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 5
+                                },
+                                {
+                                    "id": "year5846",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 34
+                        },
+                        {
+                            "id": "major5545",
+                            "name": "Turismo",
+                            "children": [
+                                {
+                                    "id": "year5545",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5560",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 16
+                                },
+                                {
+                                    "id": "year5618",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 13
+                                }
+                            ],
+                            "matchInformation": 30
+                        }
+                    ],
+                    "matchInformation": 209
+                },
+                {
+                    "id": "course-type5505",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major5505",
+                            "name": "Turismo",
+                            "children": [
+                                {
+                                    "id": "year5505",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5523",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5536",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5636",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5974",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major5507",
+                            "name": "Ingeniería Industrial",
+                            "children": [
+                                {
+                                    "id": "year5507",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5510",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5531",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5547",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5639",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6015",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major5513",
+                            "name": "Economía",
+                            "children": [
+                                {
+                                    "id": "year5513",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5518",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5535",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5587",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5679",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major5520",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year5520",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year5526",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5538",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5596",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5606",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6160",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major5569",
+                            "name": "Educación Economía",
+                            "children": [
+                                {
+                                    "id": "year5569",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6065",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": 2
+                },
+                {
+                    "id": "course-type5570",
+                    "name": "Enseñanza a Distancia",
+                    "children": [
+                        {
+                            "id": "major5570",
+                            "name": "Contabilidad y Finanzas",
+                            "children": [
+                                {
+                                    "id": "year5570",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5725",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5774",
+                                    "name": "Sexto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year5817",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6340",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": "0"
+                }
+            ],
+            "matchInformation": 211
+        },
+        {
+            "id": "faculty6915",
+            "name": "Facultad de Educación",
+            "children": [
+                {
+                    "id": "course-type6915",
+                    "name": "Curso por Encuentros",
+                    "children": [
+                        {
+                            "id": "major6915",
+                            "name": "Educación Primaria",
+                            "children": [
+                                {
+                                    "id": "year6915",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6921",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6930",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6940",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6916",
+                            "name": "Educación Preescolar",
+                            "children": [
+                                {
+                                    "id": "year6916",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6917",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year6920",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6927",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 3
+                        },
+                        {
+                            "id": "major6919",
+                            "name": "Educación Logopedia",
+                            "children": [
+                                {
+                                    "id": "year6919",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year6934",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major6922",
+                            "name": "Educación Biología",
+                            "children": [
+                                {
+                                    "id": "year6922",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7007",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7039",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7053",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6923",
+                            "name": "Educación Artística",
+                            "children": [
+                                {
+                                    "id": "year6923",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6924",
+                            "name": "Educación Instructor de Arte",
+                            "children": [
+                                {
+                                    "id": "year6924",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6949",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7018",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6931",
+                            "name": "Educación Especial",
+                            "children": [
+                                {
+                                    "id": "year6931",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6936",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6944",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7398",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6932",
+                            "name": "Educación Geografía",
+                            "children": [
+                                {
+                                    "id": "year6932",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year7120",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major6941",
+                            "name": "Educación Laboral",
+                            "children": [
+                                {
+                                    "id": "year6941",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 3
+                                }
+                            ],
+                            "matchInformation": 3
+                        },
+                        {
+                            "id": "major6948",
+                            "name": "Educación Pedagogía-Psicología",
+                            "children": [
+                                {
+                                    "id": "year6948",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                },
+                                {
+                                    "id": "year6959",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 2
+                                },
+                                {
+                                    "id": "year6973",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 2
+                        },
+                        {
+                            "id": "major6987",
+                            "name": "Educación Química",
+                            "children": [
+                                {
+                                    "id": "year6987",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major7033",
+                            "name": "Educación Matemática",
+                            "children": [
+                                {
+                                    "id": "year7033",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        },
+                        {
+                            "id": "major7047",
+                            "name": "Educación Laboral-Informática",
+                            "children": [
+                                {
+                                    "id": "year7047",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": 1
+                                }
+                            ],
+                            "matchInformation": 1
+                        },
+                        {
+                            "id": "major7084",
+                            "name": "Educación Matemática - Física",
+                            "children": [
+                                {
+                                    "id": "year7084",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": "0"
+                        }
+                    ],
+                    "matchInformation": 10
+                },
+                {
+                    "id": "course-type6918",
+                    "name": "Curso Regular Diurno",
+                    "children": [
+                        {
+                            "id": "major6918",
+                            "name": "Educación Logopedia",
+                            "children": [
+                                {
+                                    "id": "year6918",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 6
+                                },
+                                {
+                                    "id": "year6926",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 8
+                                },
+                                {
+                                    "id": "year7397",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 14
+                        },
+                        {
+                            "id": "major6928",
+                            "name": "Educación Biología",
+                            "children": [
+                                {
+                                    "id": "year6928",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year6947",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 3
+                                },
+                                {
+                                    "id": "year6956",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 6
+                                },
+                                {
+                                    "id": "year6985",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": "0"
+                                }
+                            ],
+                            "matchInformation": 12
+                        },
+                        {
+                            "id": "major6994",
+                            "name": "Educación Química",
+                            "children": [
+                                {
+                                    "id": "year6994",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 1
+                                },
+                                {
+                                    "id": "year7245",
+                                    "name": "Segundo",
+                                    "children": [],
+                                    "matchInformation": 4
+                                }
+                            ],
+                            "matchInformation": 5
+                        },
+                        {
+                            "id": "major7005",
+                            "name": "Educación Pedagogía-Psicología",
+                            "children": [
+                                {
+                                    "id": "year7005",
+                                    "name": "Tercero",
+                                    "children": [],
+                                    "matchInformation": 5
+                                },
+                                {
+                                    "id": "year7015",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 6
+                                }
+                            ],
+                            "matchInformation": 11
+                        },
+                        {
+                            "id": "major7010",
+                            "name": "Educación Artística",
+                            "children": [
+                                {
+                                    "id": "year7010",
+                                    "name": "Cuarto",
+                                    "children": [],
+                                    "matchInformation": 4
+                                },
+                                {
+                                    "id": "year7123",
+                                    "name": "Quinto",
+                                    "children": [],
+                                    "matchInformation": 4
+                                }
+                            ],
+                            "matchInformation": 8
+                        },
+                        {
+                            "id": "major7417",
+                            "name": "Educación Geografía",
+                            "children": [
+                                {
+                                    "id": "year7417",
+                                    "name": "Primero",
+                                    "children": [],
+                                    "matchInformation": 2
+                                }
+                            ],
+                            "matchInformation": 2
+                        }
+                    ],
+                    "matchInformation": 52
+                }
+            ],
+            "matchInformation": 62
+        }
+    ]
+}

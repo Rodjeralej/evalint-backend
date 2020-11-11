@@ -1,12 +1,15 @@
 const axios = require("axios");
+const LocalStorage = require("node-localstorage").LocalStorage,
+  localStorage = new LocalStorage("./scratch");
 
 module.exports = {
   method: "get",
   path: "/pie-chart-information",
   handler: async (ctx) => {
-    const { data } = await axios.get(
+    /*const { data } = await axios.get(
       "http://directoriounico.umcc.cu/api/getData.php?f=json&t=SIGENU"
-    );
+    );*/
+    const data = JSON.parse(localStorage.getItem("SIGENU.json"));
 
     let faculties = [];
     let courseTypes = [];
