@@ -9,6 +9,7 @@ dotenv.config();
 //const errorHandler = require('errorhandler');
 const getMatchWithAD = require("./lib/getMatchWithAd");
 const buildTreeView = require("./lib/createTreeViewInformation");
+const verifyUserWithAD = require("./lib/verifyUsersWithAD");
 
 const { JWT_KEY } = process.env;
 
@@ -31,6 +32,7 @@ app.use(
 app.use(routes.umUser.middleware());
 
 //getMatchWithAD();
+//verifyUserWithAD();
 buildTreeView();
 
 app.listen(3300, () => {

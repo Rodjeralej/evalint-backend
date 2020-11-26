@@ -11,6 +11,7 @@ module.exports = {
       "http://directoriounico.umcc.cu/api/getData.php?f=json&t=SIGENU"
     );*/
     const data = JSON.parse(localStorage.getItem("SIGENU.json"));
+
     ctx.assert(data, 404, "User information can not be fetched");
     const counter = {};
     data.map((user) => {
@@ -18,14 +19,9 @@ module.exports = {
         counter[user[field]] = 0;
       } else counter[user[field]] += 1;
     });
-    counterArray = [];
-    Object.keys(counter).map((key) => {
-      counterArray.push(counter[key]);
-    });
 
     ctx.body = {
       counter,
-      counterArray,
     };
 
     ctx.status = 200;
