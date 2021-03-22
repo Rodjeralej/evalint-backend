@@ -10,6 +10,7 @@ dotenv.config();
 const getMatchWithAD = require("./lib/getMatchWithAd");
 const buildTreeView = require("./lib/createTreeViewInformation");
 const verifyUserWithAD = require("./lib/verifyUsersWithAD");
+const buildPieChartOrganizationData = require("./lib/createPieChartData");
 
 const { JWT_KEY } = process.env;
 
@@ -33,6 +34,7 @@ app.use(routes.umUser.middleware());
 
 //getMatchWithAD();
 //verifyUserWithAD();
+//buildPieChartOrganizationData();
 buildTreeView();
 
 app.listen(3300, () => {

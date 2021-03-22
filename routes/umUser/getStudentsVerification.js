@@ -9,7 +9,7 @@ module.exports = {
     const usersAD = JSON.parse(localStorage.getItem("AD.json"));
     const { faculty, courseType, major, year } = ctx.request.params;
 
-    /*const usersSigenu = await axios.get(
+    const usersSigenu = await axios.get(
       encodeURI(
         `http://directoriounico.umcc.cu/api/getData.php?&f=json&t=SIGENU&c=nombre,apellidos,provincia,municipio,usuario&w=facultad_filial="${faculty}" AND carrera="${major}" AND ano_de_estudio="${year}" AND tipo_de_curso="${courseType}"`
       )
@@ -52,23 +52,6 @@ module.exports = {
           registered: false,
         });
     });
-    */
-    const tempUser = [
-      {
-        name: "Norberto",
-        lastName: "Gonzales Gonzales",
-        province: "Matanzas",
-        zone: "Perico",
-        registered: true,
-      },
-      {
-        name: "Norberto",
-        lastName: "Gonzales Gonzales",
-        province: "Matanzas",
-        zone: "Perico",
-        registered: false,
-      },
-    ];
 
     ctx.body = tempUser;
     ctx.status = 200;
